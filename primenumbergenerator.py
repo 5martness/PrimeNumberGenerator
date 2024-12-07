@@ -1,5 +1,6 @@
 x=1
-X=[]
+X=[2]
+print(2)
 while True:
   for i in X:
     if x%i=0:
